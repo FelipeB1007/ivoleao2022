@@ -1,0 +1,59 @@
+body {
+    background: #3299CC;
+}
+.centralizado {
+    text-align: center;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+p {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+li {
+    text-align: center;
+    color: white;
+}
+
+#multiversuslogo {
+    width: 100%;
+}
+
+#multiversuslogo2 {
+    width: 100%;
+}
+
+#imagemsalsicha {
+    position: relative;
+   top: 0px;
+   left:625px;
+}
+
+#salsichaart {
+    width: 18%;
+    position: absolute;
+    left: 75%;
+    top: 188%
+}
+
+#salsichainstintosuperior {
+    width: 18%;
+    position: absolute;
+    left: 2%;
+    top: 190%
+}
+
+.italico {
+    font-style: italic;
+}

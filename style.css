@@ -59,11 +59,17 @@ li {
 }
 
 #multiversuslogo {
-    width: 100%;
+    width: 70%;
+    top: 0px;
+    left: 250px;
+    position: relative;
 }
 
 #multiversuslogo2 {
-    width: 100%;
+    width: 70%;
+    top: 0px;
+    left: 250px;
+    position: relative;
 }
 
 #imagemsalsicha {

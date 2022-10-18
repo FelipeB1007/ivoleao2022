@@ -11,12 +11,12 @@ body {
     position: relative;
     width: 400px;
     margin: 0 auto;
-    color: white;
 }
 
 nav li {
     display: inline;
     margin: 0 0 0 15px;
+    color: white;
 }
 
 nav a {

@@ -2,7 +2,7 @@ body {
     background: #3299Cc;
 }
 
-header 1 {
+header {
         background: #0b1b61;
         padding: 20px 0;
 }
@@ -59,6 +59,13 @@ h1 {
     text-align: center;
     color: white;
 }
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
 li {
     text-align: center;
     color: white;

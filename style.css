@@ -20,8 +20,8 @@ header {
 
 nav {
     position: absolute;
-    top: 110px;
-    right: 0;
+    top: 47px;
+    right: -433px;
 }
 
 nav li {
@@ -76,6 +76,12 @@ h2 {
 li {
     text-align: center;
     color: white;
+}
+
+#Logo001 {
+    position: absolute;
+    top: 47px;
+    right: -433px;
 }
 
 #multiversuslogo {

@@ -136,3 +136,9 @@ footer {
     text-align: center;
 	background: #000000
 }
+
+.copyright {
+    font-size: 13px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}

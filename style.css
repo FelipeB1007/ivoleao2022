@@ -2,6 +2,11 @@ body {
     background: #3299Cc;
 }
 
+header {
+        background: #0b1b61;
+        padding: 20px 0;
+}
+
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
     padding: 20px 0;

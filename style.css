@@ -79,9 +79,10 @@ li {
 }
 
 #Logo001 {
-    position: absolute;
-    top: 47px;
-    right: -433px;
+    position: relative;
+    top: -2px;
+    right: 476px;
+    
 }
 
 #multiversuslogo {

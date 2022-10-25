@@ -108,14 +108,17 @@ footer {
 .produtos h2 {
 	font-size:  30px;
 	font-weight: bold;
+    color: white;
 }
 
 .produto-descricao{
 	font-size:  18px;
+    color: white;
 }
 
 .produto-preco {
 	font-size:  22px;
 	font-weight:  bold;
 	margin-top:  10px;
+    color: white;
 }

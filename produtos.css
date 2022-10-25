@@ -73,3 +73,31 @@ footer {
     margin-block-start: 0em;
     margin-block-end: 0em;
 }
+/* Produtos */
+
+.produtos li:hover {
+	border-color: rgb(216, 45, 45);
+}
+
+.produtos li:active {
+	border-color: #088C19;
+}
+
+.produtos li:hover h2 {
+	font-size: 34px;
+}
+
+.produtos h2 {
+	font-size:  30px;
+	font-weight: bold;
+}
+
+.produto-descricao{
+	font-size:  18px;
+}
+
+.produto-preco {
+	font-size:  22px;
+	font-weight:  bold;
+	margin-top:  10px;
+}

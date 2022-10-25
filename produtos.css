@@ -95,6 +95,8 @@ footer {
 
 .produtos li:hover {
 	border-color: rgb(216, 45, 45);
+    font-size:  18px;
+    color: white;
 }
 
 .produtos li:active {
@@ -112,8 +114,7 @@ footer {
 }
 
 .produto-descricao{
-	font-size:  18px;
-    color: white;
+	
 }
 
 .produto-preco {

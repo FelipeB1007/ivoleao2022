@@ -160,6 +160,11 @@ footer {
     position: relative;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 /* Contanto */
 
 main {

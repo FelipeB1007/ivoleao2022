@@ -1,5 +1,5 @@
 body {
-    background: #3299Cc;
+    background: linear-gradient(to right, blue, red);
 }
 
 header {

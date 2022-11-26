@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#0e1f69, rgb(0, 0, 0));
+    background: linear-gradient(#12236e, rgb(0, 0, 0));
 }
 
 header {
@@ -62,21 +62,19 @@ a {
 
 p {
     font-family: 'Nunito', sans-serif;
-    text-align: center;
     color: white;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin-inline-end: 130px;
     }
 
 h1 {
     font-family: 'Nunito', sans-serif;
     font-size: 30px;
-    text-align: center;
     color: white;
-    margin-block-start: 0.67em;
+    margin-block-start: 1em;
     margin-block-end: 0.67em;
 }
 
@@ -89,9 +87,33 @@ h2 {
     margin-block-end: 0.67em;
 }
 
+h3 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+}
+
 li {
     text-align: center;
     color: white;
+}
+.mapa1 {
+        padding: 3em 0;
+}
+
+.mapa2 {
+    width: 715px;
+    margin: 0 auto;
+}
+
+.principal {
+    width: 100%;
+    height: 170px;
+    border-radius: 10px;
+    object-fit: cover;
 }
 
 .Logo001 {
@@ -101,9 +123,11 @@ li {
     
 }
 
-.multiversuslogo {
+.Banner1 {
     width: 100%;
-    height: 400px;
+    height: 332px;
+    border-radius: 10px;
+    object-fit: cover;
 }
 
 .multiversuslogo2 {
@@ -124,6 +148,10 @@ li {
     font-style: italic;
 }
 
+.Video {
+    width: 560px;
+    margin: 2em auto;}
+
 footer {
     text-align: center;
 	background: #000000
@@ -132,4 +160,8 @@ footer {
 .copyright {
     margin-block-start: 0em;
     margin-block-end: 0em;
+}
+
+div {
+    display: block;
 }

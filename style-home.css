@@ -105,7 +105,7 @@ li {
 }
 
 .mapa2 {
-    width: 715px;
+    width: 600px;
     margin: 0 auto;
 }
 
@@ -164,4 +164,18 @@ footer {
 
 div {
     display: block;
+}
+
+.centralizado2 {
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 1px;
+}
+
+.centralizado3 {
+    text-align: center;
+    margin-inline-start: 500px;
+    margin-inline-end: 500px;
 }

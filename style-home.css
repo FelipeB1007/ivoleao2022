@@ -48,12 +48,6 @@ nav a:hover {
 
 /*HOME*/
 
-.centralizado {
-    text-align: center;
-    color: white;
-}
-
-
 a {
     color: white;
     text-decoration: none;
@@ -101,7 +95,7 @@ li {
     color: white;
 }
 .mapa1 {
-        padding: 3em 0;
+        padding: 0.5em 0;
 }
 
 .mapa2 {
@@ -137,11 +131,20 @@ li {
     position: relative;
 }
 
-.imagemsalsicha {
+.imagemsalsicha1 {
     position: relative;
     width: 500px;
     float: left;
     margin: 0 20px 20px 100px;
+}
+
+.imagemsalsicha2 {
+    position: relative;
+    max-width: 480px;
+    height: 335px;  
+    overflow: hidden;
+    float: right;
+    margin: -6px 170px 20px -258px;
 }
 
 .italico {
@@ -162,8 +165,9 @@ footer {
     margin-block-end: 0em;
 }
 
-div {
-    display: block;
+.centralizado {
+    text-align: center;
+    color: white;
 }
 
 .centralizado2 {
